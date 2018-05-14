@@ -37,7 +37,7 @@ particlesJS('particles-js',
         "text": {
           "content": ["TEXT1", "TEXTTEXTTEXT2", "TEXT3", "TEXT4", "TEXTTEXT5"],
           "font": "10px Ubuntu",
-          "ratio": "25"
+          "ratio": "20"
         },
         "image": {
           "src": "github.png",
