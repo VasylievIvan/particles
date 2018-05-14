@@ -382,11 +382,6 @@ var pJS = function(tag_id, params){
             }
           }
         }
-        if(shape_selected == 'text'){
-          console.log('text!');
-        }else{
-          console.log('no text!');
-        }
         this.shape = shape_selected;
       }
     }else{
